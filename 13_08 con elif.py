@@ -1,5 +1,5 @@
 i = 0  
-
+#Modificación 
 nombre = input('Nombre: ')
 apellido = input('Apellido: ')
 anio = int(input('Año de nacimiento: '))
